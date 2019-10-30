@@ -1,2 +1,3 @@
 what should we do when conflict happens?
-local file was edited.
+file was edited.
+
