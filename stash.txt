@@ -1,1 +1,3 @@
+It's stash test.
+and 
 Bug fixed.
